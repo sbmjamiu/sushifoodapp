@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&amp;display=swap');
+
+/* HOME PAGE styles */
+.htext1 {
+    top: 10em;
+    text-align: center;
+    font-weight: 400;
+    font-size: 35px;
+    letter-spacing: 4px;
+    margin-top: 16rem;
+}
+
+.strong {
+    font-weight: 900;
+}
+
+.cart,
+.menu {
+    width: 7em;
+    border-radius: 0px;
+    margin-left: 10px;
+    margin-top: 1em;
+}
+
+.chevs {
+    width: 13px;
+    cursor: pointer;
+}
+
+/* ALL STYLES FOR MENU SECTION */
+
+.leftNav {
+    box-shadow: 12px 11px 15px 2px #0000007c;
+    background-color: rgb(0, 0, 0);
+    height: 36em;
+    width: 6em;
+    border-radius: 20px;
+}
+
+.menuHead {
+    text-decoration: underline #F1D5BB;
+
+}
+
+strong {
+    font-weight: 100;
+}
+
+/* #navContB {
+    background-color: #F1D5BB;
+    
+} */
+/* img{
+    position: relative;
+    bottom: 20px;
+} */
+/* .try{
+    color: rgb(255, 255, 255);
+    
+}
+
+.bkgIcons:hover{
+    background-color: #F1D5BB;
+} */
+
+
+/* CSS FOR CART SECTION ONLY */
+
+.cartbg {
+    width: 100%;
+    height: 444px;
+    background-color: #F1D5BB;
+    padding: 20px;
+}
+
+.foods {
+    width: 80%;
+    border-radius: 50px;
+}
+
+ul {
+    list-style: none;
+    display: inline-flex;
+    position: relative;
+    right: 5em;
+
+}
+
+.adder {
+    background-color: white;
+}
+
+li {
+    padding: 17px;
+    position: relative;
+}
+
+.close {
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.bkgside2 {
+    background-color: #F1D5BB;
+    width: 350px;
+    height: 200px;
+    padding: 17px;
+
+}
+
+.bt {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 16em;
+    height: 3em;
+    font-size: 20px;
+}
+
+.bt2 {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 16em;
+    height: 3em;
+    font-size: 20px;
+
+}
+
+.inputpromo{
+    margin-bottom: 20px;
+    border-color: none;
+    width: 16em;
+    height: 3em;
+    padding: 4px;
+    outline: none;
+    border: none;
+}
+
+.inputpromo:focus{
+    border: none;
+    outline: none;
+}
+
+.bkgunder {
+    width: 350px;
+    height: 245px;
+    padding: 17px;
+
+    border: 1px solid #F1D5BB;
+}
